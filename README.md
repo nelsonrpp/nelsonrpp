@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Volkswagen Group in GRC.<br>👯 I’m looking to collaborate in Open Source Projects.<br>🌱 I’m currently learning Rust 🦀<br>⚡ Fun fact: I want to retire and become a farmer 👨‍🌾 and have some chickens 🐔
+🔭 I’m currently working at Volkswagen Group in GRC.<br>👯 I’m looking to collaborate in Open Source Projects.<br>🌱 I’m currently learning Rust 🦀<br>⚡ Fun fact: I want to retire and become a farmer 👨‍🌾
 
 
 ## 🌐 Socials:
